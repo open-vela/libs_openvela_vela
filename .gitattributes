@@ -1,1 +1,5 @@
-*.a filter=lfs diff=lfs merge=lfs -text
+ap_cmake/libgui_wrapper.a filter=lfs diff=lfs merge=lfs -text
+ap_cmake/libquickapp.a filter=lfs diff=lfs merge=lfs -text
+armv7a_cmake/libgui_wrapper.a filter=lfs diff=lfs merge=lfs -text
+armv7a_cmake/libquickapp.a filter=lfs diff=lfs merge=lfs -text
+vela_cmake/libgui_wrapper.a filter=lfs diff=lfs merge=lfs -text
